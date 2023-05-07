@@ -1,5 +1,5 @@
 def find_time(hour:int, minutes:int) -> bool:
-    if hour <=23 and minutes < 60:
+    if hour <= 23 and minutes < 60:
         return True
     return False
 
