@@ -10,5 +10,4 @@ def sum_of_odd_number() -> None:
 
 
 if __name__ == '__main__':
-   
     sum_of_odd_number()
